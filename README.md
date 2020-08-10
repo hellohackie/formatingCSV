@@ -1,9 +1,8 @@
-Problem Statement
-=================
+# Problem Statement
 
-    Rahul has multiple credit cards of different banks and each of these banks generate card statements in different formats. In order to analyse his statements, Rahul needs our help to standardize them in single format. To help Rahul, we need to write a code that can normalize any statement in a standard format. Take reasonable assumptions and make the code as generic as possible. Look at all input files and standard output file before starting to code.
+Rahul has multiple credit cards of different banks and each of these banks generate card statements in different formats. In order to analyse his statements, Rahul needs our help to standardize them in single format. To help Rahul, we need to write a code that can normalize any statement in a standard format. Take reasonable assumptions and make the code as generic as possible. Look at all input files and standard output file before starting to code.
 
->Function signature to be implemented :-
+> Function signature to be implemented :-
 > - StandardizeStatement( inputFile, outputFile)
 
 Following key points need to be considered :-
@@ -18,3 +17,9 @@ Following key points need to be considered :-
 
 # formatingCSV
 Basically simplification of format of csv files to standard csv_files
+
+### Tasks
+- [x] standardization of HDFC card completed
+- [x] standardization of ICICI card completed
+- [x] standardization of AXIS card completed
+- [ ] standardization of IDFC card incompleted
